@@ -1,0 +1,19 @@
+hola soy johan 
+
+<<<<<<< HEAD
+22 años
+
+lic.En seguridad en tecnologia de la informacion
+
+esto va para git hub
+=======
+20 años
+Leo
+Italiano
+
+lic.En seguridad en tecnologia de la informacion
+main supp lol 
+
+te amo
+
+>>>>>>> 0e3a1ba5cb6adf7dd8d87ee58fc8456eeb92b8ee
